@@ -1,0 +1,3 @@
+1. Navigated to the file using cd via vs cod eterminal
+2. Intsalled sass usingh npm via the terminal and the checked if it was successfully intsallled
+  running: npx sass --version;
